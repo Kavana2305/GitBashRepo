@@ -34,5 +34,6 @@ public class CreateUsertest {
 		resp.then().assertThat().statusCode(201);
 
 	}//pull 1
+	//bash pull
 
 }
